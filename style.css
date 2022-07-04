@@ -83,6 +83,11 @@ body{
 .exp-header h1{
     font-size:50px;
     font-weight:700;
+    margin-bottom: 5px;
+}
+span.header-br {
+    border-bottom: 3px solid orange;
+    display: block;
     margin-bottom:130px;
 }
 .exp-flex{
