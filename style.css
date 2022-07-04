@@ -69,3 +69,34 @@ body{
 .dream-text{
     margin-right:120px;
 }
+.experiences{
+    padding:120px 0;
+    background:url(./img/exp-bg.png);
+    background-repeat:no-repeat;
+}
+.exp-header{
+    margin-top:50px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.exp-header h1{
+    font-size:50px;
+    font-weight:700;
+    margin-bottom:130px;
+}
+.exp-flex{
+    display:flex;
+    justify-content: space-between;
+    margin:0 100px;
+    gap:80px;
+}
+
+.exp-card{
+    box-shadow:3px 3px 2px 3px #ddd;
+    padding:30px;
+    border-left:3px solid orange;
+}
+.br-color{
+    border-left:3px solid purple;
+}
