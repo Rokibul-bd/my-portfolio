@@ -52,6 +52,11 @@ body{
 .halfwidth img{
     max-width: 70%;
 }
+.dream-blog{
+    background:url(./img/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+}
 .dream-blog h1{
     font-size:50px;
     font-weight:700;
@@ -60,4 +65,7 @@ body{
 }
 .dream-blog .halfwidth img{
     margin-left:80px;
+}
+.dream-text{
+    margin-right:120px;
 }
