@@ -13,7 +13,7 @@ body{
     background-repeat:no-repeat;
 }
 .header-text{
-    margin-left:100px;
+    margin:0px 100px;
 }
 .header-color{
     color:orange;
