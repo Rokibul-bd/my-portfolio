@@ -105,3 +105,7 @@ span.header-br {
 .br-color{
     border-left:3px solid purple;
 }
+footer{
+    display:flex;
+    justify-content: center;
+}
